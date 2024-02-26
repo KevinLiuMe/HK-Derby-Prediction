@@ -10,7 +10,7 @@ import numpy as np
 
 headers = ['Date','Race', "Location", "Distance", "Course", "Track", "Going"]
 df = pd.DataFrame(columns=headers)
-date_list= np.loadtxt(r"/Users/kevinliu/Desktop",
+date_list= np.loadtxt(r"/Users/kevinliu/Desktop/RaceDateList.csv",
                  delimiter=",", dtype=str)
 # create a new Chrome driver
 #PATH = r""
