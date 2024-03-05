@@ -1,0 +1,40 @@
+Horse Race Data Info:
+
+filter out the participants who were marked as voided
+Total # of data cells before filter: 50856
+Total # of data cell after filter: 49387
+
+Total # of rows: 3799
+Total # of columns: 13
+
+Total # of recorded races: 329 - 4*
+# of eight horse races: 23
+# of nine horse races: 29
+# of ten horse races: 38
+# of eleven horse races: 64
+# of twelve horse races: 89 - 1*
+# of thirteen horse races: 0
+# of fourteen horse races:  86 - 3*
+
+152 races was in Happy Valley
+173 races was in Sha Tin
+4 races was overseas *
+https://racing.hkjc.com/racing/overseas/english/results.aspx?para=/20231126/S1/1
+14 horse race
+https://racing.hkjc.com/racing/overseas/english/results.aspx?para=/20231105/S2/1
+14 horse race
+https://racing.hkjc.com/racing/overseas/english/results.aspx?para=/20231105/S2/2
+14 horse race
+https://racing.hkjc.com/racing/overseas/english/results.aspx?para=/20231029/S2/1
+12 horse race
+* : excluding the overseas data from our data set
+
+The Maximum Date of the dataset is: 2024-02-28
+The Minimum Date of the dataset is: 2023-10-01
+193 races took place last year
+132 races took place this year
+
+
+
+
+
